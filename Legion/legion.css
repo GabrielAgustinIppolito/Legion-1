@@ -1,0 +1,13 @@
+body{
+    background-color: #F1E4D3;
+    font-family: 'EB Garamond', serif;
+}
+
+.titles{
+    font-family: 'Prompt', sans-serif;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
